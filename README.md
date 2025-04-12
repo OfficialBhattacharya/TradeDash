@@ -2,6 +2,13 @@
 
 A professional trading application built with Python and PyQt5, featuring real-time stock data visualization, market analysis, and stock recommendations.
 ![TradeDash_Preview](https://github.com/user-attachments/assets/59b51a3b-6a45-4d4a-a615-6713e06513eb)
+![TradeDash_Preview2](https://github.com/user-attachments/assets/a4d968b4-5ac1-41a6-845c-ea1cf7069f52)
+![TradeDash_Preview3](https://github.com/user-attachments/assets/66eff660-3fd6-42ec-8e16-781db2cde4a7)
+![TradeDash_Preview4](https://github.com/user-attachments/assets/d9ccf6d9-34ab-438d-85d1-6138f8889654)
+![TradeDash_Preview5](https://github.com/user-attachments/assets/3b58d543-7fb6-4603-9749-cb02cbd7c19f)
+![TradeDash_Preview6](https://github.com/user-attachments/assets/fff66665-f884-4026-9010-1cfa6744a60d)
+![TradeDash_Preview7](https://github.com/user-attachments/assets/93312523-c175-4739-a363-ce46dba11129)
+
 
 ## Features
 
