@@ -1,6 +1,7 @@
 # TradeDash
 
 A professional trading application built with Python and PyQt5, featuring real-time stock data visualization, market analysis, and stock recommendations.
+![TradeDash_Preview](https://github.com/user-attachments/assets/59b51a3b-6a45-4d4a-a615-6713e06513eb)
 
 ## Features
 
