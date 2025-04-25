@@ -1,6 +1,33 @@
 # TradeDash
 
-A professional trading application built with Python and PyQt5, featuring real-time stock data visualization, market analysis, and stock recommendations.
+A Python-based trading dashboard application.
+
+## Requirements
+
+- Anaconda or Miniconda installed on your system
+- Windows operating system
+
+## Installation & Running
+
+### One-Click Setup and Launch
+1. Clone or download this repository
+2. Simply double-click the `run_app.bat` file:
+   - It will check if Conda is installed
+   - Create a "tradedash" conda environment if it doesn't exist
+   - Install all required dependencies automatically
+   - Launch the application
+
+### Desktop Shortcut (Optional)
+1. Run `create_desktop_shortcut.bat` to create a desktop shortcut
+2. Double-click the Desktop shortcut "TradeDash" to launch the application
+
+## Troubleshooting
+
+If you encounter issues:
+1. Make sure Anaconda or Miniconda is properly installed
+2. Check if the PATH environment variable includes the Conda installation
+3. If you get missing package errors, try running `install_packages.bat` separately
+4. Review any error messages displayed in the console window
 
 ## Features
 
@@ -26,46 +53,6 @@ A professional trading application built with Python and PyQt5, featuring real-t
 - Match by sector or company characteristics
 - Star rating system (0-5) for quick evaluation
 - Detailed similarity metrics and correlation coefficients
-
-## Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/OfficialBhattacharya/TradeDash.git
-cd tradedash
-```
-
-2. Install required packages:
-```bash
-pip install -r requirements.txt
-```
-
-Or run the installation script:
-```bash
-install_packages.bat
-```
-
-## Usage
-
-Run the application using:
-```bash
-python -m tradedash.main
-```
-
-Or use the provided script:
-```bash
-run_app.bat
-```
-
-## Requirements
-
-- Python 3.8+
-- PyQt5
-- yfinance
-- pandas
-- numpy
-- matplotlib
-- ta (Technical Analysis library)
 
 ## Project Structure
 
